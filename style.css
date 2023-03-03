@@ -3,3 +3,82 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;%;
+  }
+  figcaption {
+    text-align: center;
+    font-size: x-small;
+  }
+  section#featured-property {
+    align: center;
+  }
+  p[section id="featured-property"] {
+    hard-width: 800px;
+  }
+  p{
+    text-align: center;
+  }
+  a{
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: grey;
+  }
+  div {
+    text-align: horizontal;
+  }
+  div {
+    max-width: 800px;
+  }
+  div#boxes{
+    float: left;
+    background-color: rgb(201, 57, 13);
+    text-align: center;
+    width: 200%;  
+  }
+  #box1 {
+    float:left;
+    background-color: rgb(201, 57, 13);
+    text-align: center;
+    width: 25%;
+    margin-bottom: 0%;
+}
+#box2 {
+    float:left;
+    background-color: rgb(201, 57, 13);
+    text-align: center;
+    width: 25%;
+    margin-bottom: 0%;
+}
+#box3 {
+    float:left;
+    background-color: rgb(201, 57, 13);
+    text-align: center;
+    width: 25%;
+    margin-bottom: 0%;
+}
+#box4 {
+  float:left;
+  background-color: rgb(201, 57, 13);
+    text-align: center;
+    width: 25%;
+    margin-bottom: auto;
+  } 
+  div[section id="details"] {
+    background-color: rgb(201, 57, 13);
+    text-align: center;
+    width:default
+    border: bottom-width 25%;
+  }
+  div [section class="center"] {
+    display: flex;
+    }
